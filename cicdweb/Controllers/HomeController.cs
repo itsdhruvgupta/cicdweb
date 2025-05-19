@@ -10,7 +10,7 @@ namespace cicdweb.Controllers
 	{
 		public ActionResult Index()
 		{
-			return View();
+			return Vie();
 		}
 
 		public ActionResult About()
